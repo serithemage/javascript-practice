@@ -1,0 +1,23 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serithemage/javascript-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serithemage/javascript-practice/issues"
+  },
+  "homepage": "https://github.com/serithemage/javascript-practice#readme",
+  "dependencies": {
+    "prompt-confirm": "^2.0.4"
+  }
+}
